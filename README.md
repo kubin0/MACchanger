@@ -1,6 +1,6 @@
 Various utilities for "hacking"
 
 
-Sush a basic MAC address changer.
+Such as basic MAC address changer.
 
 Enjoy. 
