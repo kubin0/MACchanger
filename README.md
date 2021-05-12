@@ -1,7 +1,6 @@
-# MACchanger
-basic MAC address changer
+Various utilities for "hacking"
 
 
-Just a basic MAC address changer.
+Sush a basic MAC address changer.
 
 Enjoy. 
