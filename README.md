@@ -1,6 +1,6 @@
 Various utilities for "hacking"
 
-
-Such as basic MAC address changer.
+1. Mac Changer
+2. Network Scanner
 
 Enjoy. 
