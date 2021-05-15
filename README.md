@@ -1,6 +1,7 @@
-Various utilities for "hacking"
+Various utilities for "hacking", written in Python on Kali Linux
 
-1. Mac Changer
-2. Network Scanner
+1. ARP Spoofer
+2. Mac Changer
+3. Network Scanner
 
 Enjoy. 
